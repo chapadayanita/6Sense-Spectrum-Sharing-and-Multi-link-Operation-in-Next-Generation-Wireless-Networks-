@@ -53,22 +53,6 @@ The current implementation includes:
 
 ---
 
-# Future Research Extensions
-
-The next implementation phases will include:
-
-- Multi-link operation
-- Graph Neural Networks (GNN)
-- PAL Tier-1 and Tier-2 orchestration
-- Reinforcement learning-based optimization
-- O-RAN integration
-- Network slicing
-- Distributed spectrum intelligence
-- Multi-cell orchestration
-- Topology-aware spectrum allocation
-
----
-
 # System Workflow
 
 ```text
@@ -326,6 +310,3 @@ Dayanita Chapa
 
 ---
 
-# License
-
-MIT License
